@@ -6,8 +6,8 @@ public class TestaCaracteres {
 		
 		System.out.println(letra);
 		
-		char valor = 66;
-	
+		char valor = 6;
+		
 		System.out.println(valor);
 	}
 
