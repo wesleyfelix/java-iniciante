@@ -14,14 +14,10 @@ public class TestaCaracteres {
 		
 		System.out.println(valor);
 		
-		String palavra = "Wesley Felix";
+		String palavra = " ";
 		
 		System.out.println(palavra);
 		
-		
-		palavra = palavra + ' ' +  2020;
-		
-		System.out.println(palavra);
 	}
 
 }

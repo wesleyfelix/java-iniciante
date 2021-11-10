@@ -10,18 +10,9 @@ public class TestaCaracteres {
 	
 		System.out.println(valor);
 		
-		valor = (char) (valor +1);
+		valor = valor +1;
 		
 		System.out.println(valor);
-		
-		String palavra = "Wesley Felix";
-		
-		System.out.println(palavra);
-		
-		
-		palavra = palavra + ' ' +  2020;
-		
-		System.out.println(palavra);
 	}
 
 }
