@@ -46,5 +46,13 @@ class Conta {
 		this.agencia = numero;
 	}
 	
+	public void setTitular(Cliente titular) {
+		this.titular = titular;
+	}
+	
+	public Cliente getTitular() {
+		return this.titular;
+	}
+	
 }
 	
